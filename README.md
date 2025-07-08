@@ -86,6 +86,8 @@ This runs the collections in the `/postman` folder using the environments in `/p
 
 - use the command npx prisma migrate reset to reset the database
 
+- Also do not forget to re-seed the database using this command: NPX PRISMA DB SEED
+
 ---
 
 ## Using Prisma Studio (optional)
